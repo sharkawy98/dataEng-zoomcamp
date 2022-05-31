@@ -1,0 +1,4 @@
+# ignore mapped folder for postgres container
+# when building my created local containers
+# i.e. Run <docker build ...> without access errors
+data
